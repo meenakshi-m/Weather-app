@@ -9,7 +9,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 103vh;
+  min-height: 102vh;
   background: #6dc5e0;
 }
 ::selection{
